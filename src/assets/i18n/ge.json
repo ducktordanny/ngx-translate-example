@@ -1,0 +1,17 @@
+{
+  "LANGUAGES": {
+    "EN": "Englisch",
+    "HU": "Ungarisch",
+    "GE": "Deutsch"
+  },
+
+  "HOME": {
+    "APPLE": "Apfel",
+    "CAT": "Katze",
+    "DOG": "Hund"
+  },
+
+  "PROPS": {
+    "VALUE": "Es ist ein Wert: {{value}} asdasdasd"
+  }
+}

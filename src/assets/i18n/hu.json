@@ -1,0 +1,17 @@
+{
+  "LANGUAGES": {
+    "EN": "Angol",
+    "HU": "Magyar",
+    "GE": "Német"
+  },
+
+  "HOME": {
+    "APPLE": "Alma",
+    "CAT": "Cica",
+    "DOG": "Kutya"
+  },
+
+  "PROPS": {
+    "VALUE": "Ez egy ertek: {{value}} asdasdasd"
+  }
+}
